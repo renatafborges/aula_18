@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources></resources>
+
+
+<!--    dimens.xml: The dimens.xml is used for defining the dimensions for different widgets to be included in the Android project.-->
+<!--    It is a good coding practice to use dimens.xml to define a dimension rather than just writing the dimension in the resource,-->
+<!--    due to the fact that if ever any need arises to change the dimension,-->
+<!--    instead of making a change to all, only the dimens.xml can be changed once and the change is reflected in all-->
+
+<!--<resources>-->
+<!--&lt;!&ndash; Default screen margins, per the Android Design guidelines. &ndash;&gt;-->
+<!--<dimen name="activity_horizontal_margin">16dp</dimen>-->
+<!--<dimen name="activity_vertical_margin">16dp</dimen>-->
+<!--<dimen name="nav_header_vertical_spacing">8dp</dimen>-->
+<!--<dimen name="nav_header_height">176dp</dimen>-->
+<!--<dimen name="fab_margin">16dp</dimen>-->
+<!--</resources>-->

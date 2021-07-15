@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources></resources>
+
+
+<!--    styles.xml: Another important file in the values folder is the styles.xml where all the themes of the Android project are defined. -->
+<!--    The base theme is given by default having the option to customize or make changes to the customized theme as well. -->
+<!--    Every theme has a parent attribute which defines the base of the theme. -->
+<!--    There are a lot of options to choose from depending on the need of the Android project.-->
